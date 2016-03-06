@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -60,3 +61,13 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+=======
+*.pyc
+
+dist/
+build/
+*.egg-info/
+
+.tox/
+.coverage
+>>>>>>> f667245a6185efc6bff94977d0a530e11173c388

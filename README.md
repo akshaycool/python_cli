@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # python_cli
 Cool Python Command Line Interface
 Hi , Akshay Here , I love working with Python and Java.
@@ -29,4 +28,5 @@ To use it:
 
     $ ak_tool --help
 
->>>>>>> f667245a6185efc6bff94977d0a530e11173c388
+
+
